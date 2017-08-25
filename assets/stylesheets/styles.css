@@ -1,0 +1,78 @@
+
+
+* {
+  box-sizing: border-box;
+  font-family: helvetica;
+}
+
+body {
+  background-color: black;
+  font-size: 16px;
+}
+
+h1{
+  font-size: 48px;
+}
+
+h2{
+  font-size: 32px;
+}
+
+h3{
+  font-size: 28px;
+}
+
+.carousel-caption {
+  height: 450px;
+}
+
+.carousel-inner {
+  height: 550px;
+}
+
+.row img {
+  width: 275px;
+}
+
+.row {
+  background-color: white;
+}
+
+.container {
+  height: 350px;
+}
+
+.row h2 {
+  font-size: 28px;
+  font-family: helvetica;
+  text-align: center;
+}
+
+.row a {
+  font-size: 16px;
+  font-family: helvetica;
+  padding-left: 70px;
+}
+
+.page-row {
+  background-color: white;
+  height: 375px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.page-row h3 {
+  text-align: center;
+}
+
+li a {
+  margin-right: 20px;
+}
+
+.dataTables_info {
+  margin-bottom: 75px;
+}
+
+#spain {
+  background-color: black;
+}
